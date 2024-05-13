@@ -32,6 +32,8 @@ for word in sentence:
 print(answer.strip().lower())
 ```
 
+### Conclusion
+
 This program will work for single-word strings or mulitple-word strings.
 
 Please feel free to use it or to modify it to suit your needs.
